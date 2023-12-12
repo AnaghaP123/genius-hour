@@ -73,3 +73,9 @@ h4
     50% {background-color: wheat; left: 100px; top: 0px;}
     80% {background-color: #ffffff; left: 0px; top: 0px;}
 }
+
+img
+{
+    width:30%;
+    height: 30%;
+}
